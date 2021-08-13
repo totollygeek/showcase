@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageVersion>$(MyPackageVersion)</PackageVersion>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Dummy.Dependency" Version="$(MyPackageVersion)" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup>
+        <MyPackageVersion>10.5.1</MyPackageVersion>
+    </PropertyGroup>
+</Project>
